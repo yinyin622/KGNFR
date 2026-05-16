@@ -1,0 +1,24 @@
+Usability <-> useableness
+Usability <-> serviceability
+Usability <-> serviceableness
+Usability <-- utility
+Usability <-- quality
+Usability === Usability
+Support --> logistic support
+Support --> inter-service support
+Support --> interdepartmental support
+Support --> mutual aid
+Support --> integrated logistic support
+Support === Support
+Reliability --> solidity
+Reliability <-> dependability
+Reliability <-- trustworthiness
+Reliability <-> reliableness
+Reliability --> papal infallibility
+Reliability === Reliability
+Performance --> song and dance
+Performance --> benefit concert
+Performance --> concert
+Performance --> premiere
+Performance --> play reading
+Performance === Performance
